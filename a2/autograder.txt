@@ -1,0 +1,15 @@
+Autograder score: 74/80
+
+Test 1 from partial autograder: 9/9
+Test 2 from partial autograder: 9/9
+Test 3 from partial autograder: 9/9
+Test 4 from partial autograder: 9/9
+Test 5 from partial autograder: 9/9
+Test 6 from partial autograder: 9/9
+Test 1 from partial autograder creates correct intersection.txt: 5/5
+Test 1 from partial autograder creates correct difference.txt: 5/5
+Test 4 from partial autograder creates correct intersection.txt: 5/5
+Test 4 from partial autograder creates correct difference.txt: 5/5
+Test 1, but intersection.txt is an existing directory: 0/3
+Test 1, difference.txt is an existing directory: 0/3
+
