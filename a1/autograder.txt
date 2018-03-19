@@ -1,0 +1,13 @@
+Autograder score: 70/70
+
+Test 0 from partial autograder: 10/10
+Test 1 from partial autograder: 10/10
+Test 2 from partial autograder: 10/10
+Test 3 from partial autograder: 10/10
+Fancy string contains a space: 5/5
+Fancy string is long: 5/5
+Number of rows and columns are large: 5/5
+Number of rows is 0: 5/5
+Fancy string is empty: 5/5
+All ASCII characters 33...127: 5/5
+
