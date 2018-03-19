@@ -1,0 +1,3 @@
+Manually checked score: 8/10
+
+-2 style: minor spacing issues. There should be a blank line after the closing brace for a function and the beginning of the next function. Use a single blank line to separate logical parts of your code, not two or more (lines 81-84).
